@@ -8,7 +8,7 @@ Might work only for statically linked binaries,
 but not severely tested.
 
 I (misc) ported the code to work with 64bit binaries,
-and to compile with minilib (or the standard c lib)
+and to compile with [minilib](https://github.com/michael105/minilib) (or the standard c lib)
 without external dependencies. 
 The original source can be found at https://github.com/berney/superstrip.
 
