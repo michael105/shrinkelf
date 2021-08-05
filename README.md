@@ -9,7 +9,8 @@ but not severely tested.
 
 I (misc) ported the code to work with 64bit binaries,
 and to compile with minilib (or the standard c lib)
-without external dependencies.
+without external dependencies. 
+The original source can be found at https://github.com/berney/superstrip.
 
 
 ##### Compile
